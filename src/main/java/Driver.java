@@ -16,6 +16,7 @@ public class Driver {
 		
 		System.out.println("Count:" + counter.getCount());
 		
+		System.out.println("Contoh Test Success");
 	}
 
 }
